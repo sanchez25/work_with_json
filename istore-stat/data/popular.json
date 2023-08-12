@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "model": "AirPods 2",
+        "name": "Apple AirPods 2, Bluetooth",
+        "number": "MV7N2",
+        "price": "3599",
+        "img": "img/popular/apple-airpods-2-bluetooth.jpg"
+    },
+    {
+        "id": "2",
+        "model": "AirPods Pro",
+        "name": "Apple Airpods Pro Bluetooth, Qi (белые)",
+        "number": "MWP22",
+        "price": "6199",
+        "img": "img/popular/apple-airpods-pro-bluetooth.jpg"
+    },
+    {
+        "id": "3",
+        "model": "iPhone 12 Pro",
+        "name": "Apple iPhone 12 Pro 128 ГБ (Тихоокеанский синий)",
+        "number": "MGMN3",
+        "price": "29899",
+        "img": "img/popular/apple-iphone-12-pro-128gb.jpg"
+    },
+    {
+        "id": "4",
+        "model": "iPhone 12 Pro Max",
+        "name": "Apple iPhone 12 Pro Max 128 ГБ (Тихоокеанский синий)",
+        "number": "MGDA3",
+        "price": "33499",
+        "img": "img/popular/apple-iphone-12-pro-128gb.jpg"
+    }
+]

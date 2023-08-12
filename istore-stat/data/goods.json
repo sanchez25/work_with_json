@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "model": "iPhone 13 Pro Max",
+        "name": "Apple iPhone 13 Pro Max 1 ТБ (Sierra Blue)",
+        "number": "MLLN3",
+        "price": "56199",
+        "img": "img/actions/iphone-13-pro-1-t-blue.jpg"
+    },
+    {
+        "id": "2",
+        "model": "iPhone 13 Pro",
+        "name": "Apple iPhone 13 Pro 1 ТБ (Sierra Blue)",
+        "number": "MLW03",
+        "price": "52599",
+        "img": "img/actions/iphone-13-pro-1-t-blue.jpg"
+    },
+    {
+        "id": "3",
+        "model": "iPhone 13 Pro",
+        "name": "Apple iPhone 13 Pro 1 ТБ (Gold)",
+        "number": "MLVY3",
+        "price": "49899",
+        "img": "img/actions/iphone-13-pro-1-t-gold.jpg"
+    },
+    {
+        "id": "4",
+        "model": "iPhone 13 Pro",
+        "name": "Apple iPhone 13 Pro 1 ТБ (Silver)",
+        "number": "MLVW3",
+        "price": "49899",
+        "img": "img/actions/iphone-13-pro-1-t-silver.jpg"
+    },
+    {
+        "id": "5",
+        "model": "AirPods 2",
+        "name": "Apple AirPods 2, Bluetooth",
+        "number": "MV7N2",
+        "price": "3599",
+        "img": "img/popular/apple-airpods-2-bluetooth.jpg"
+    },
+    {
+        "id": "6",
+        "model": "AirPods Pro",
+        "name": "Apple Airpods Pro Bluetooth, Qi (белые)",
+        "number": "MWP22",
+        "price": "6199",
+        "img": "img/popular/apple-airpods-pro-bluetooth.jpg"
+    },
+    {
+        "id": "7",
+        "model": "iPhone 12 Pro",
+        "name": "Apple iPhone 12 Pro 128 ГБ (Тихоокеанский синий)",
+        "number": "MGMN3",
+        "price": "29899",
+        "img": "img/popular/apple-iphone-12-pro-128gb.jpg"
+    },
+    {
+        "id": "8",
+        "model": "iPhone 12 Pro Max",
+        "name": "Apple iPhone 12 Pro Max 128 ГБ (Тихоокеанский синий)",
+        "number": "MGDA3",
+        "price": "33499",
+        "img": "img/popular/apple-iphone-12-pro-128gb.jpg"
+    }
+]
